@@ -12,10 +12,16 @@ python rename_file.py -p your_path -w your_word
 
 ### مثال
 
+
 تصویر زیر فولدر اصلی (که آدرسش به برنامه داده شده) را قبل از اعمال برنامه بر روی آن نشان داده است.
+
 
 <img src="https://github.com/mohammadpooshesh/rename_files/blob/master/images/tree.jpg" width="600" height="400">
 
+
+
+
 و در تصویر زیر مشاهده میکنید که فولدر شما به وسیله ی برنامه، کلمه file را از نام فایل ها حذف کرده است.
+
 
 <img src="https://github.com/mohammadpooshesh/rename_files/blob/master/images/tree1.jpg" width="600" height="400">
