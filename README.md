@@ -14,8 +14,8 @@ python rename_file.py -p your_path -w your_word
 
 این تصویر فولدر اصلی شما را نشان میدهد قبل از اعمال برنامه بر روی آن
 
-![alt text](https://github.com/mohammadpooshesh/rename_files/images/three.jpg?raw=true)
+![alt text](https://github.com/mohammadpooshesh/rename_files/blob/master/images/tree.jpg?raw=true)
 
 و در تصویر زیر مشاهده میکنید که فولدر شما به وسیله ی برنامه کلمه file را از نام فایل ها حذف کرده است.
 
-![alt text](https://github.com/mohammadpooshesh/rename_files/images/three1.jpg?raw=true)
+![alt text](https://github.com/mohammadpooshesh/rename_files/blob/master/images/tree1.jpg?raw=true)
