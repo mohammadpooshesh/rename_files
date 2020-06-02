@@ -12,7 +12,7 @@ python rename_file.py -p your_path -w your_word
 
 ### مثال
 
-این تصویر فولدر اصلی شما را نشان میدهد قبل از اعمال برنامه بر روی آن
+تصویر زیر فولدر اصلی (که آدرسش به برنامه داده شده) را قبل از اعمال برنامه بر روی آن نشان داده است
 
 ![alt text](https://github.com/mohammadpooshesh/rename_files/blob/master/images/tree.jpg?raw=true)
 
